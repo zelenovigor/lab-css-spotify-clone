@@ -1,4 +1,36 @@
-/*
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    transition-delay: 5s;
+}
+body{
+    background-color: aquamarine;
+}
+
+body {
+    margin-right: auto;
+    margin-left: auto;
+    width: 80%;
+}
+
+.header {
+    background-image: url("/Volumes/Macintosh HD/Users/apple/Desktop/IronHack/CodeFolder/lab-css-spotify-clone/starter-code/images/landing.jpg");
+    background-position: 0, 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    padding: 0px 0px 0px 0px;
+    position: relative;
+}
+#firstSec h1,p{
+color: blueviolet;
+}
+#firstSc{
+    display: block;
+    background-image: url("../images/landing.jpg");
+    background-size: cover;
+}
+    /*
 Colors:
 
 Text: 1A1A1A
